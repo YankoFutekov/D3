@@ -1,0 +1,12 @@
+body {
+  margin: 0px;
+  overflow: hidden;
+}
+.lines {
+  stroke: green;
+  stroke-width: 5;
+}
+.lines path {
+  stroke: red;
+  stroke-linejoin: round;
+}
